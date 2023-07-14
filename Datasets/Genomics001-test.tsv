@@ -1,2 +1,2 @@
 sampleID	group	platform	seqCentre	fq1	fq2
-NA12877	human	Illumina	PlatinumGenomes	NA12877_S1_L001_R1_001.fastq_1Mreads.fastq.gz	NA12877_S1_L001_R2_001.fastq_1Mreads.fastq.gz
+NA12877	human	Illumina	PlatinumGenomes	/g/data/er01/Bio-Test-Data/CoreWorkflow-Genomics001/subset/NA12877_S1_L001_R1_001.fastq_1Mreads.fastq.gz	/g/data/er01/Bio-Test-Data/CoreWorkflow-Genomics001/subset/NA12877_S1_L001_R2_001.fastq_1Mreads.fastq.gz
