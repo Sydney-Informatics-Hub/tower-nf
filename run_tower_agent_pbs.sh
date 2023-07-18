@@ -31,7 +31,7 @@ read_value_or_prompt() {
 
 # Read or prompt for the access token and session token
 TOKEN_FILE="$HOME/.tower/token"
-CONNECTION_ID_FILE="$HOME/.tower/connection_id"
+CONNECTION_ID_FILE=".tower/connection_id"
 TOWER_ACCESS_TOKEN=$(read_value_or_prompt "$TOKEN_FILE" "Please enter your access token: ")
 CONNECTION_ID=$(read_value_or_prompt "$CONNECTION_ID_FILE" "Please enter your session token: ")
 
